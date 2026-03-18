@@ -1,5 +1,7 @@
 package session06.hw03;
 
+import session06.hw01.Ticket;
+
 public class BookingCounter implements Runnable {
 
     private String name;
